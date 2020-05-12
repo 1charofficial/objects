@@ -1,0 +1,30 @@
+body{
+    background-color: wheat;
+    text-align: center;
+
+    
+}
+
+
+.heading{
+    margin-top: 200px;
+    color: sandybrown;
+    text-align: center;
+    font-family: cursive;
+    
+
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: sandybrown;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    color: sienna;
+   
+}
